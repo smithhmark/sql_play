@@ -4,6 +4,8 @@ A playground for SQL tests
 ## Introduction
 Based on recent job interview questions, and other sources of interesting SQL questions/challenges, this is a place to keep interesting results/ideas
 
+For purposes of testing, most of these examples will use sqlite3.
+
 ## Tour
 ### Reporting
 Because generating reports is such a frequent task, the reporting directory exists to gather queries for that common purpose.
